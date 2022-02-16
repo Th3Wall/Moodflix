@@ -4,6 +4,7 @@ export const BASE_IMG_URL = "https://image.tmdb.org/t/p/original";
 export const FALLBACK_POSTER_IMG_URL = `${GITHUB_ASSETS_BASE_URL}/Moodflix_Poster_Placeholder.png`;
 export const FALLBACK_BACKDROP_IMG_URL = `${GITHUB_ASSETS_BASE_URL}/Moodflix_Backdrop_Placeholder.png`;
 export const LOGO_URL = `${GITHUB_ASSETS_BASE_URL}/Moodflix_logo.png`;
+export const WHITE_LOGO_URL = `${GITHUB_ASSETS_BASE_URL}/Moodflix_logo_white.png`;
 export const LANG = "en-US";
 const { REACT_APP_TMDB_API_KEY } = process.env;
 

@@ -71,7 +71,7 @@ const RevealTransition = () => {
             y="50%"
             style={{ fill: "url(#pattern)" }}
           >
-            Moodflix
+            MOODFLIX
           </text>
         </motion.svg>
       </motion.div>
